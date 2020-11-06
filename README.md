@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Jean-Paul Ngalula Mulume !
+
+I enjoy learning new things, helping other developers solve problems, and contributing to open source. 
 <!--
 **nmcodes/nmcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
