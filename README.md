@@ -8,7 +8,7 @@
 ### Wanna stalk my website:question::point_right: [Click Here](https://nmcodes.me/):sparkles:
 
 ### Who am I:question: 
-<code>git commit -m "Hello, I'm a Software Engineering Associate at [ownest](https://www.ownest.io/)"</code>
+<code>git commit -m "Hello, I'm a Web Developer at [ownest](https://www.ownest.io/)"</code>
 
 <!--
 ### Where did I work earlier:question::woman_technologist:
