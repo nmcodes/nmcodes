@@ -2,13 +2,21 @@
   <img src="https://github.com/chandrikadeb7/chandrikadeb7/blob/master/readme.gif">
 </p>
  
-## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=nmcodes alt=nmcodes/></p>
 
 ### Wanna stalk my website:question::point_right: [Click Here](https://nmcodes.me/):sparkles:
 
 ### Who am I:question: 
 <code>git commit -m "Hello, I'm a Web Developer at [ownest](https://www.ownest.io/)"</code>
+
+### What can I help with:question::cyclone:
+<code>git commit -m "Pretty much nerd stuffs and Math!"</code> :grin:
+
+### How to connect with me:question::email:
+:star: <code>[Mail](mailto:jeanpaul@mulume.me)</code>    
+:star: <code>[Twitter](https://twitter.com/nmcodes)</code>  
+:star: <code>[LinkedIn](https://www.linkedin.com/in/jeanpaulngalula/)</code>
 
 <!--
 ### Where did I work earlier:question::woman_technologist:
@@ -22,7 +30,7 @@
 -->
   
 ### What am I learning:question::point_down:	
-<code>var topics = ["Javascript" , "Microservices" , "Java"];</code>
+<code>var topics = ["Javascript" , "Microservices"];</code>
 
 <!--
 ### What are my featured projects:question::rocket:
