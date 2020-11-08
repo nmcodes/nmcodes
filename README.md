@@ -31,37 +31,3 @@
   
 ### What am I learning:question::point_down:	
 <code>var topics = ["Javascript" , "Microservices"];</code>
-
-<!--
-### What are my featured projects:question::rocket:
-<code>[100DaysOfCode](https://github.com/chandrikadeb7/100DaysOfCode)</code>:hourglass:     
-<code>[Face Mask Detection](https://github.com/chandrikadeb7/Face-Mask-Detection)</code>:mask:  
-<code>[GirlScript Twitter Bot](https://github.com/chandrikadeb7/Girlscript-Twitter-Bot)</code>:robot:     
--->
-
-
-<!--
-My name is Jean-Paul Ngalula Mulume !
-
-I enjoy learning new things, helping other developers solve problems, and contributing to open source. 
-
-How to connect with me❓
-⭐ Mail
-⭐ Twitter
-⭐ LinkedIn
--->
-
-<!--
-**nmcodes/nmcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
