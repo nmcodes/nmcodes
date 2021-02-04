@@ -5,8 +5,6 @@
 ## Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=nmcodes alt=nmcodes/></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nmcodes&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### Wanna stalk my website:question::point_right: [Click Here](https://nmcodes.me/):sparkles:
 
 ### Who am I:question: 
