@@ -2,15 +2,15 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=nmcodes alt=nmcodes/></p>
 
-I'm working for [Ownest](https://www.ownest.io/)".
+I'm working for [Ownest](https://www.ownest.io/).
 
 **Languages and framworks:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 
 **What am I learning:**
 
@@ -18,9 +18,9 @@ I'm working for [Ownest](https://www.ownest.io/)".
 
 **How to connect with me**
 
-:star: <code>[Mail](mailto:jeanpaul@mulume.me)</code>    
-:star: <code>[Twitter](https://twitter.com/nmcodes)</code>  
+:star: <code>[Mail](mailto:jeanpaulngalula07@gmail.com)</code> 
 :star: <code>[LinkedIn](https://www.linkedin.com/in/jeanpaulngalula/)</code>
+:star: <code>[Twitter](https://twitter.com/nmcodes)</code> 
 
 <!--
 <div class="half">
