@@ -11,13 +11,13 @@ I'm working for [Ownest](https://www.ownest.io/)".
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ionic/ionic.png"></code>
 
 **What am I learning:**
 
 <code>var topics = ["Javascript" , "Microservices", "Craftsmanship"];</code>
 
 **How to connect with me**
+
 :star: <code>[Mail](mailto:jeanpaul@mulume.me)</code>    
 :star: <code>[Twitter](https://twitter.com/nmcodes)</code>  
 :star: <code>[LinkedIn](https://www.linkedin.com/in/jeanpaulngalula/)</code>
