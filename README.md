@@ -23,6 +23,8 @@
 
 ## Hey, guys. I'm nmcodes.
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=nmcodes alt=nmcodes/></p>
+
 I'm working for Ownest.
 
 **Languages and framworks:**  
