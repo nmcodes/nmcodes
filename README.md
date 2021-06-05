@@ -1,4 +1,4 @@
-## Hey, guys. I'm Jean-Paul NGALULA.
+## Hey, guys. I'm Jean-Paul NGALULA
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=nmcodes alt=nmcodes/></p>
 
