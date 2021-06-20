@@ -17,7 +17,7 @@ I'm working for [Ownest](https://www.ownest.io/).
 
 **What am I learning:**
 
-<code>var topics = ["Javascript" , "Microservices", "Craftsmanship"];</code>
+<code>let topics = ["Javascript" , "Typescript", "Java", "Microservices", "Craftsmanship"];</code>
 
 
 **How to connect with me**
